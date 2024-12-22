@@ -5,4 +5,5 @@
 <br>2024.06.19，上传最初版本  
 
   ## 效果展示
-  ![Image text](https://github.com/Miiiller/Xiangcui-Dazijiti/blob/main/1.png)
+  ![Image text](https://github.com/Miiiller/Xiangcui-Dazijiti/blob/main/3.png)  
+![Image text](https://github.com/Miiiller/Xiangcui-Dazijiti/blob/main/1.png)  
